@@ -1,2 +1,2 @@
 # WEBSITE_ANALYSIS
-A bit of data cleaning and solve some queries
+A bit of data cleaning and solved some queries
